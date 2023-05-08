@@ -3,4 +3,5 @@ const sobre = " Silva";
 
 const completo = nome + sobre;
 
-console.log(completo)
+console.log(completo);
+
